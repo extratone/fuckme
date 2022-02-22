@@ -4,7 +4,13 @@
 
 *This document is a work-in-progress. See its GitHub Gist or [this GitHub Issue](https://github.com/extratone/bilge/issues/142) for details about its various revisions.*
 
+[Update PFWTL](shortcuts://run-shortcut?name=Update%20PFWTL)
+
 ---
+
+<audio controls>
+  <source src="https://github.com/extratone/fuckme/raw/main/PFWTL.m4a">
+</audio>
 
 This document as read by the individual currently reading it - whether by physically tangible means or otherwise - is subject to the infinite various interpretations of the reader and any others (past, present, and future,) as well as legally, ethically, morally, spiritually, etc. freely fluid regarding modification, variation, iteration, etc. 
 
@@ -14,4 +20,4 @@ The originator of the matter may be held entirely responsible for consequences u
 
 `02212022-181434`
 
-By associating this document with the matter, its originator wishes to legally express total, unambiguous disinterest in or intent to withhold or otherwise retain authority over its destiny henceforward the exigent 
+By associating this document with the matter, its originator wishes to legally express total, unambiguous disinterest in or intent to withhold or otherwise retain authority over its destiny henceforward the moment it was so associated. 
